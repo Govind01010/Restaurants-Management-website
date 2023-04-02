@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstreact/static/css/main.f2122bbc.css",
+    "main.js": "/firstreact/static/js/main.ea096ef2.js",
+    "index.html": "/firstreact/index.html",
+    "main.f2122bbc.css.map": "/firstreact/static/css/main.f2122bbc.css.map",
+    "main.ea096ef2.js.map": "/firstreact/static/js/main.ea096ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2122bbc.css",
+    "static/js/main.ea096ef2.js"
+  ]
+}
